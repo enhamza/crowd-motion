@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/58520846/222116079-f1f0bf2f-a469-40ea-
 
 https://user-images.githubusercontent.com/58520846/222116765-e279a5c8-be9d-4160-b4c2-6c229bc993e5.mp4
 
-* One room evacuation (corresponds to Figure 4. in the paper) with $f(x,y) = 0.2 + \vert\cos(3x+5y)\vert$ and a source term located at $\Gamma_{S} = {0}\times[0.3,0.6]$
+* One room evacuation (corresponds to Figure 4. in the paper) with $f(x,y) = 0.2 + \vert\cos(3x+5y)\vert$ and a source term located at $\Gamma_{S} = \{0\}\times[0.3,0.6]$
 
 
 https://user-images.githubusercontent.com/58520846/222117276-850a17ad-64f3-41ee-acc6-ce3bc0cc53b6.mp4
